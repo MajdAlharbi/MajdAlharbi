@@ -1,33 +1,60 @@
-# Majd Alharbi
+<h1 align="center">Hi, I'm Majd Alharbi 👋</h1>
+<h3 align="center">Web Developer | Python &amp; Django</h3>
+<p align="center">Computer Science Graduate · Riyadh, Saudi Arabia</p>
 
-**Web Developer | Python & Django | Computer Science Graduate**
+---
 
-Riyadh, Saudi Arabia · [LinkedIn](https://www.linkedin.com/in/majd-alharbi/)
+### About me
 
-I’m a 2026 Computer Science graduate from Princess Nourah Bint Abdulrahman University, focused on web development with Python and Django. My project experience includes application planning, interface design, Django backend contributions, and team coordination.
+- 🎓 **Computer Science graduate (2026)** — Princess Nourah Bint Abdulrahman University.
+- 🐍 Completed **Tuwaiq Academy’s Python Web Development Bootcamp**.
+- 🛠️ Project experience in **application planning, Figma interface design, Django backend contributions, and team coordination**.
+- 🔎 Seeking **entry-level software and web development opportunities**.
 
-I completed Tuwaiq Academy’s Python Web Development Bootcamp and am seeking entry-level software and web development opportunities.
+### Connect with me
 
-## Technologies & tools
+<p>
+  <a href="https://www.linkedin.com/in/majd-alharbi/">
+    <img src="https://skillicons.dev/icons?i=linkedin&amp;theme=light" alt="LinkedIn" height="42" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MajdAlharbi">
+    <img src="https://skillicons.dev/icons?i=github&amp;theme=light" alt="GitHub" height="42" />
+  </a>
+</p>
 
-Python · Django · HTML · CSS · SQLite · Git · GitHub · Figma
+### Languages &amp; tools
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,html,css,sqlite,git,github,figma&amp;theme=light&amp;perline=8" alt="Python, Django, HTML, CSS, SQLite, Git, GitHub, and Figma" />
+  </a>
+</p>
+
+---
 
 ## Selected projects
 
-### Meow Hub
+### 🐾 Meow Hub
 
-Planned and deployed an individual, bilingual Django capstone project featuring cat adoption requests, veterinary clinic discovery, and boarding reservations. Built as an educational project at Tuwaiq Academy.
+**Individual Tuwaiq capstone**
 
-[Live demo](https://majdalharbi.pythonanywhere.com/)
+Planned and deployed a bilingual Django project featuring cat adoption requests, veterinary clinic discovery, and boarding reservations. Built as an educational project at Tuwaiq Academy.
 
-### Tizahab
+**[Live demo ↗](https://majdalharbi.pythonanywhere.com/)**
 
-Led a graduation project team, designed the user interfaces in Figma, and contributed to the Django backend for a Riyadh tourism planning platform. Deployed on Render; achieved fourth place in the Scientific Poster Competition at Tamkeen 5 Student Forum.
+### 🧭 Tizahab
 
-[Live demo](https://tizahab-web.onrender.com/) · [Source code](https://github.com/MajdAlharbi/tizahab-web)
+**University graduation project · Team leader**
 
-### Emaa
+Designed the user interfaces in Figma and contributed to the Django backend for a Riyadh tourism planning platform. Deployed on Render; achieved fourth place in the Scientific Poster Competition at Tamkeen 5 Student Forum.
 
-Led the team and contributed to the Django backend for accounts, preferences, and content mapping at the Expo 2030 Riyadh Hackathon. Our team reached the top 12 of 64 participating projects.
+**[Live demo ↗](https://tizahab-web.onrender.com/)** · **[Source code](https://github.com/MajdAlharbi/tizahab-web)**
 
-[Live demo](https://emaa-expo.onrender.com/) · [Source code](https://github.com/MajdAlharbi/emaa-expo1)
+### 🌐 Emaa
+
+**Expo 2030 Riyadh Hackathon · Team leader &amp; backend contributor**
+
+Contributed to the Django backend for accounts, preferences, and content mapping. Our team reached the **top 12 of 64 participating projects**.
+
+**[Live demo ↗](https://emaa-expo.onrender.com/)** · **[Source code](https://github.com/MajdAlharbi/emaa-expo1)**

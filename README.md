@@ -6,10 +6,7 @@
 
 ### About me
 
-- 🎓 **Computer Science graduate (2026)** — Princess Nourah Bint Abdulrahman University.
-- 🐍 Completed **Tuwaiq Academy’s Python Web Development Bootcamp**.
-- 🛠️ Project experience in **application planning, Figma interface design, Django backend contributions, and team coordination**.
-- 🔎 Seeking **entry-level software and web development opportunities**.
+I'm Majd, a Computer Science graduate passionate about building web applications using Python and Django.
 
 ### Connect with me
 
@@ -18,9 +15,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin&amp;theme=light" alt="LinkedIn" height="42" />
   </a>
   &nbsp;
-  <a href="https://github.com/MajdAlharbi">
-    <img src="https://skillicons.dev/icons?i=github&amp;theme=light" alt="GitHub" height="42" />
-  </a>
 </p>
 
 ### Languages &amp; tools
@@ -57,4 +51,4 @@ Designed the user interfaces in Figma and contributed to the Django backend for 
 
 Contributed to the Django backend for accounts, preferences, and content mapping. Our team reached the **top 12 of 64 participating projects**.
 
-**[Live demo ↗](https://emaa-expo.onrender.com/)** · **[Source code](https://github.com/MajdAlharbi/emaa-expo1)**
+**[Live demo ↗](https://emaa-expo.onrender.com/)**
